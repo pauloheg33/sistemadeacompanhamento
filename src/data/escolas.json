@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "nome": "EMEF João Silva",
+    "endereco": "Rua das Flores, 123",
+    "bairro": "Centro",
+    "cidade": "São Paulo",
+    "telefone": "(11) 3333-4444",
+    "diretor": "Maria Santos",
+    "ativo": true
+  },
+  {
+    "id": 2,
+    "nome": "EMEF Ana Costa",
+    "endereco": "Av. Brasil, 456",
+    "bairro": "Jardim América",
+    "cidade": "São Paulo",
+    "telefone": "(11) 5555-6666",
+    "diretor": "João Oliveira",
+    "ativo": true
+  },
+  {
+    "id": 3,
+    "nome": "EMEF Pedro Álvares",
+    "endereco": "Rua São Paulo, 789",
+    "bairro": "Vila Nova",
+    "cidade": "São Paulo",
+    "telefone": "(11) 7777-8888",
+    "diretor": "Ana Lima",
+    "ativo": true
+  },
+  {
+    "id": 4,
+    "nome": "EMEF Carlos Drummond",
+    "endereco": "Rua Minas Gerais, 321",
+    "bairro": "Copacabana",
+    "cidade": "São Paulo",
+    "telefone": "(11) 9999-0000",
+    "diretor": "Carlos Mendes",
+    "ativo": true
+  },
+  {
+    "id": 5,
+    "nome": "EMEF Cecília Meireles",
+    "endereco": "Av. Rio de Janeiro, 654",
+    "bairro": "Ipanema",
+    "cidade": "São Paulo",
+    "telefone": "(11) 1111-2222",
+    "diretor": "Lucia Ferreira",
+    "ativo": true
+  }
+]

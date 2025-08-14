@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "profissionalId": 1,
+    "escolaId": 1,
+    "dataVisita": "2024-08-10",
+    "horaInicio": "09:00",
+    "horaFim": "12:00",
+    "tipoVisita": "Acompanhamento Pedagógico",
+    "objetivos": "Verificar implementação do novo currículo",
+    "atividadesRealizadas": "Reunião com coordenação pedagógica, observação de aulas, análise de materiais didáticos",
+    "observacoes": "Escola está bem adaptada ao novo currículo. Professores demonstram engajamento.",
+    "proximasAcoes": "Agendar workshop de capacitação para professores",
+    "status": "Concluída",
+    "criadoEm": "2024-08-10T15:30:00Z",
+    "atualizadoEm": "2024-08-10T15:30:00Z"
+  },
+  {
+    "id": 2,
+    "profissionalId": 2,
+    "escolaId": 2,
+    "dataVisita": "2024-08-12",
+    "horaInicio": "08:00",
+    "horaFim": "11:30",
+    "tipoVisita": "Formação Continuada",
+    "objetivos": "Capacitar professores em metodologias ativas",
+    "atividadesRealizadas": "Workshop sobre aprendizagem baseada em projetos, dinâmicas de grupo",
+    "observacoes": "Professores muito receptivos às novas metodologias",
+    "proximasAcoes": "Acompanhar implementação em sala de aula",
+    "status": "Concluída",
+    "criadoEm": "2024-08-12T14:00:00Z",
+    "atualizadoEm": "2024-08-12T14:00:00Z"
+  },
+  {
+    "id": 3,
+    "profissionalId": 3,
+    "escolaId": 3,
+    "dataVisita": "2024-08-15",
+    "horaInicio": "13:30",
+    "horaFim": "16:00",
+    "tipoVisita": "Monitoramento",
+    "objetivos": "Avaliar indicadores de aprendizagem",
+    "atividadesRealizadas": "Análise de dados de avaliações, reunião com gestão escolar",
+    "observacoes": "Indicadores mostram melhoria significativa no último trimestre",
+    "proximasAcoes": "Elaborar relatório de progresso",
+    "status": "Em Andamento",
+    "criadoEm": "2024-08-15T16:30:00Z",
+    "atualizadoEm": "2024-08-15T16:30:00Z"
+  }
+]
